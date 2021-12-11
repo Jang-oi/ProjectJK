@@ -4,9 +4,12 @@
 * npm init
 * npm install concurrently
 
-### server
+### Server
 *
 
-### client
+### Client
 * npx create-react-app projectjk-client --template typescript
-* 
+* npm install react-bootstrap bootstrap
+* npm install react-router-dom
+* npm install axios
+* npm install redux react-redux redux-logger
