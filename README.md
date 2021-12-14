@@ -14,3 +14,4 @@
 * npm install react-router-dom
 * npm install axios
 * npm install redux react-redux redux-logger
+* npm install node-sass
