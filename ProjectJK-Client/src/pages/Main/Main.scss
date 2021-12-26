@@ -1,0 +1,51 @@
+.calender-Header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0;
+  padding: 5px 20px;
+  box-sizing: border-box;
+  font-weight: 600;
+  width: 100%;
+  height: 14%;
+  font-size: 1em;
+  span {
+    font-size : 2em;
+  }
+  .calender-arrowBtn {
+    margin: 0 25px;
+    cursor: pointer;
+    outline: none;
+    display: inline-flex;
+    background: transparent;
+    border: none;
+    color: #212529;
+    font-size: 2em;
+    padding: 4px;
+    &:hover {
+      opacity: 0.5;
+    }
+  }
+}
+
+.calender-Main{
+  th {
+    text-align: center;
+  }
+  td {
+    width: 14.3%;
+  }
+ .calender-todos {
+   button {
+     width: 100%;
+     margin-bottom: 5px;
+   }
+ }
+}
+
+.main-Button {
+  float: right;
+  button {
+    margin: 10px;
+  }
+}
