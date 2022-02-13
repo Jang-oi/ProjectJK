@@ -6,7 +6,7 @@
 * npm install concurrently
 
 ### Server
-*
+* npm i -g nest
 
 ### Client
 * npx create-react-app projectjk-client --template typescript
